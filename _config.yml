@@ -10,7 +10,7 @@
 
 title: 风息无限                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: 土壤生态学 R语言学习者.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -32,11 +32,11 @@ twitter:
 
 social:
   name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  email: kaikaimin@163.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/Wellington9023       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
