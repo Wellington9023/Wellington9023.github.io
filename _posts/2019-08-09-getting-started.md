@@ -5,13 +5,17 @@ date: 2019-08-09 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true
-excerpt: I am happy to join with you today in what will go down in history as the greatest demonstration for freedom in the history of our nation.
+
 ---
 
 
 ## Installation
 
 [Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub, and clone the fork to local by:
+
+```
+<!-- more -->
+```
 
 ```terminal
 $ git clone git@github.com:<username>/jekyll-theme-chirpy -b master --single-branch
